@@ -1,4 +1,8 @@
 #!/usr/bin/swift
+
+/* For Luhn mod 10 numeric use 
+     let codePoints = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
+*/
 let codePoints = ["2", "3", "4", "5", "6", "7", "8", "9", "B", "C", "D", "F", "G", "H", "J", "K", "L", "P", "R", "Q", "T", "V", "X", "N", "Z"];
 
 
